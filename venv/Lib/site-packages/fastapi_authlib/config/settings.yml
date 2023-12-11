@@ -1,0 +1,13 @@
+DATABASE:
+
+# token exp duration of validity, unit: days
+EXP_PERIOD: 30
+# token nts duration of validity, unit: minutes
+NTS_PERIOD: 10
+
+OAUTH_CLIENT_ID:
+OAUTH_CLIENT_SECRET:
+OAUTH_CONF_URL:
+PLATFORM:
+# session secret key and jwt secret key
+SECRET_KEY:
